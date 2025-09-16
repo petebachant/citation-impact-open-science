@@ -1,0 +1,6 @@
+owner: petebachant
+name: citation-impact-open-science
+title: Reproducing \'A study on the citation impact of Open Science Indicators
+  in the French Open Science Monitor\'
+description: A reproducibility check from a Figshare archive.
+git_repo_url: https://github.com/petebachant/citation-impact-open-science
