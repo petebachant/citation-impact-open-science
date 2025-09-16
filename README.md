@@ -2,3 +2,5 @@
 
 A reproducibility check from the Figshare archive:
 https://doi.org/10.6084/m9.figshare.27822663.v2
+supporting the preprint by Colavizza et al.:
+https://arxiv.org/pdf/2508.20747.
